@@ -1,4 +1,4 @@
-import first.nums import mul
+from first.nums import mul
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -13,6 +13,6 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print(mul(2,6))
+    print(mul(2, 6))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
